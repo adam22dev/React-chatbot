@@ -1,38 +1,36 @@
 # React Chat-Bot using simple-react-chatbot
 ---
 
-[Live Demo](https://akash52.github.io/react-chatbot)
-
 ##  About <a name = "about"></a>
 
 Project Purpose was people can efficiently solve his/her queries using chatbot
 
 ### Prerequisites
 
-- [NodeJS](https://nodejs.org/en/)
-- [Git Bash](https://git-scm.com/downloads)
+  - [NodeJS](https://nodejs.org/en/)
+  - [Git Bash](https://git-scm.com/downloads)
 
 
 ### Installing your local machine
 
- - git clone https://github.com/Akash52/react-chatbot
- - cd react-chatbot
- - npm install (these command install relevant dependencies)
- - npm start 
-  The demo will be live at `http://localhost:3000`
+  - git clone https://github.com/denis12sokolov/React-chatbot
+  - cd react-chatbot
+  - npm install (these command install relevant dependencies)
+  - npm start 
+    The demo will be live at `http://localhost:3000`
 
 
  ## Features
  
- - Fully Progressive Web Application
- - Single Page Appliacation (SPA)
- - Responsive
+  - Fully Progressive Web Application
+  - Single Page Appliacation (SPA)
+  - Responsive
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [ReactJS](https://reactjs.org/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
+  - [ReactJS](https://reactjs.org/)
+  - [React Bootstrap](https://react-bootstrap.github.io/)
 
 ## Sample
 
@@ -42,10 +40,3 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
   
                                                                                                                                                                                 
 ## Feel Free to use your upcoming projects ! 
-
-### 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- [React Simple Chatbot](https://github.com/LucasBassetti/react-simple-chatbot) 
-
-
-
-
