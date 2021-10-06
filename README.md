@@ -5,13 +5,7 @@
 
 Project Purpose was people can efficiently solve his/her queries using chatbot
 
-### Prerequisites
-
-  - [NodeJS](https://nodejs.org/en/)
-  - [Git Bash](https://git-scm.com/downloads)
-
-
-### Installing your local machine
+### Installing on your local
 
   - git clone https://github.com/denis12sokolov/React-chatbot
   - cd react-chatbot
@@ -37,6 +31,3 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
 <p align="center">
 <img src="https://github.com/Akash52/react-chatbot/blob/master/public/images/ChatBot.gif?raw=true" width="600 height="600"/>
 </p>
-  
-                                                                                                                                                                                
-## Feel Free to use your upcoming projects ! 
